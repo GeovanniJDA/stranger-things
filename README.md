@@ -1,4 +1,4 @@
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Image Stranger Things]('./assets/images/strangerthings.png')
 
 # O Mundo Invertido
 
