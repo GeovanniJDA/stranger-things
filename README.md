@@ -1,4 +1,4 @@
-![Image Stranger Things]('./assets/images/strangerthings.png')
+![Image Stranger Things](./assets/images/strangerthings.png)
 
 # O Mundo Invertido
 
