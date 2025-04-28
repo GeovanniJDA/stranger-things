@@ -19,10 +19,10 @@ O design do site é inspirado no estilo de Stranger Things, com um tom sombrio e
 
 Obrigado por considerar contribuir para O Mundo Invertido! Para contribuir, siga os seguintes passos:
 
-1.  Crie uma nova branch com git checkout -b nome-da-branch
+1.  Crie uma nova branch com **git checkout -b nome-da-branch**
 2.  Faça as alterações necessárias.
-3.  Confirme as alterações com git add .
-4.  Envia a commit usando git commit -m "mensagem-da-commmit"
+3.  Confirme as alterações com **git add**.
+4.  Envia a commit usando **git commit -m "mensagem-da-commmit"**
 5.  Crie um pull request no GitHub/ GitLab.
 
 ## Muito obrigado por visitar O Mundo Invertido!
